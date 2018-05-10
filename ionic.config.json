@@ -1,0 +1,8 @@
+{
+  "name": "ionic-places",
+  "app_id": "e727318f",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
